@@ -1,6 +1,9 @@
 ### Clothing Sales - AWS Glue, Snowflake
 
 - ETL (Python API, Snowflake SQL)
+  - forever21etl.py
+  - sales_records.py
+  - SF_create_db.sql
 <p><img src="https://github.com/ankur715/AWS_Glue_Redshift/blob/main/pics/SF_create.png"></p>
 
 - Analyze (AWS Glue Studio)
